@@ -16,4 +16,5 @@
 ### Run the app
 ``` Run with an emulator or an android device via connection to pc / laptop ```
 
+![Playing image](playing.jpg)
 ![Won image](won.jpg)
