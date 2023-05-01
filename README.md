@@ -16,4 +16,5 @@
 ### Run the app
 ``` Run with an emulator or an android device via connection to pc / laptop ```
 
-!(docs/playing.JPG)
+![Playing](docs\playing.JPG)
+
