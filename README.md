@@ -2,6 +2,7 @@
 
 ## Prerequisites
 * Android Studio
+* Android OS version 7.0 (API 24, Nougat) and newer
 
 ## Installation
 
